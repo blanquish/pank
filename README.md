@@ -3,7 +3,7 @@ Pank
 
 Why the name?
 -------------
-Comes from Python + Bank, an idea to use Python's data manipulation and plotting capabilities to analyse and classify bank transactions in a csv file.
+Comes from Python + bank, an idea to use Python's data manipulation and plotting capabilities to analyse and classify bank transactions in a csv file.
 
 Purpose
 -------
